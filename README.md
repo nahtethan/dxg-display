@@ -23,6 +23,10 @@ Please reference step 00 to step 06 in http://www.hi-pda.com/forum/viewthread.ph
 
 04-g_android.ko, put this under dxg's /mnt/us/
 
+05-i.sh, put this under dxg's /mnt/us/ and make it executable.
+
+06-mylcd, put this under dxg's /mnt/us/ and make it executable.
+
 ***************
 
 1-displaylink
