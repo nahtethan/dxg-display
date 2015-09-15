@@ -3,22 +3,35 @@
 - Ubuntu 12.04 is the only verified platform now.
 - My ubuntu is using Linux version 4.0.
 
-00-binary
+0-binary
 
 Binary helps to use dxg as display without compiling.
 
-001-udlfb.ko, pls remember it is based on linux-4.0. I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
+01-udlfb.ko
 
-002-52-displaylink.conf, pls reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to get familiar with displaylink. 52-displaylink.conf should be put under /usr/share/X11/xorg.conf.d/.
+Please remember it is based on linux-4.0. I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
+
+02-52-displaylink.conf
+
+Please reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to get familiar with displaylink. 52-displaylink.conf should be put under /usr/share/X11/xorg.conf.d/.
+
 sudo apt-get install xserver-xorg-video-displaylink
+
+03-jailbreak
+
+Please reference step 00 to step 06 in http://www.hi-pda.com/forum/viewthread.php?tid=1659227, to jailbreak and usbnet dxg. (You can also reference http://www.hi-pda.com/forum/viewthread.php?tid=1645202 to know more about eink display.)
+
+04-g_android.ko
 
 ***************
 
-01-displaylink
+1-displaylink
 
 My codes started from Linux udlfb module, many thanks to displaylink team, a little bit change of udlfb is required.
 
-02-linux-2.6.22-lab126
+***************
+
+2-linux-2.6.22-lab126
 
 Displaylink's Linux udlfb module is used in PC side, so it is clear that we need to write a usb gadget driver for dxg.
 
@@ -31,7 +44,7 @@ The android gadget driver is pretty cool for usb, so the first step is porting a
 Q & A
 
 - How to compile?
-Not clear how to compile a Linux module like udlfb? Contribute please.
+It is easy to compile a Linux module like udlfb, contribute please.
 
 - How to install?
 Insmod.
