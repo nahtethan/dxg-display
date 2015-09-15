@@ -5,7 +5,7 @@
 
 00-binary
 
-Binary helps to use this without compiling.
+Binary helps to use dxg as display without compiling.
 
 001-udlfb.ko, pls remember it is based on linux-4.0. I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
 
