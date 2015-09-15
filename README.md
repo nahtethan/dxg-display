@@ -21,7 +21,7 @@ sudo apt-get install xserver-xorg-video-displaylink
 
 Please reference step 00 to step 06 in http://www.hi-pda.com/forum/viewthread.php?tid=1659227, to jailbreak and usbnet dxg. (You can also reference http://www.hi-pda.com/forum/viewthread.php?tid=1645202 to know more about eink display.)
 
-04-g_android.ko
+04-g_android.ko, put this under dxg's /mnt/us/
 
 ***************
 
