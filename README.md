@@ -33,7 +33,7 @@ Install launchpad from mobileread kindle forum. Append "I = !/mnt/us/i.sh" to la
 
 08-steps
 
-Boot ubuntu, boot dxg, landscape dxg, connect dxg with usb, check pc's dmesg to see an extra fb is attached, logout ubuntu and login again, fun with dxg display!
+Boot ubuntu, boot dxg, landscape dxg, launchpad whit I (press dxg's up key then i key to input I), connect dxg with usb, check pc's dmesg to see an extra fb is attached, logout ubuntu and login again, fun with dxg display!
 
 ***************
 
