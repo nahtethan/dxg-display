@@ -9,11 +9,11 @@ Binary helps to use dxg as display without compiling.
 
 01-udlfb.ko
 
-Please remember it is based on linux-4.0. I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
+Please remember it is based on linux-4.0. On the client (i.e. PC), I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
 
 02-52-displaylink.conf
 
-Please reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to get familiar with displaylink. 52-displaylink.conf should be put under /usr/share/X11/xorg.conf.d/.
+Please reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to get familiar with displaylink. 52-displaylink.conf should be put under /usr/share/X11/xorg.conf.d/ (again on the client).
 
 sudo apt-get install xserver-xorg-video-displaylink
 
