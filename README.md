@@ -1,12 +1,19 @@
 # dxg-display
 
+- Ubuntu 12.04 is the only verified platform now.
+- My ubuntu is using Linux version 4.0.
+
+00-binary
+
+Binary helps to use this without compiling.
+
+001-udlfb.ko, pls remember it is based on linux-4.0. I put udlfb.ko the path as  /lib/modules/4.0.0-040000-generic/kernel/drivers/video/fbdev/udlfb.ko, and append udlfb to /etc/modules.
+
 01-displaylink
 
-My codes started from Linux udlfb module, many thanks to displaylink team, pls reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to start your journal of dxg display.
+My codes started from Linux udlfb module, many thanks to displaylink team, a little bit change of udlfb is required.
 
-Notes
-- Ubuntu 12.04 is the only verified platform now
-- A little bit change of udlfb is required
+Please reference http://how-to.cc/get-a-displaylink-video-adapter-working-with-ubuntu-12-04 to start your journal of dxg display.
 
 02-linux-2.6.22-lab126
 
