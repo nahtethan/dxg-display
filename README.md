@@ -27,6 +27,14 @@ Please reference step 00 to step 06 in http://www.hi-pda.com/forum/viewthread.ph
 
 06-mylcd, put this under dxg's /mnt/us/ and make it executable.
 
+07-launchpad
+
+Install launchpad from mobileread kindle forum. Append "I = !/mnt/us/i.sh" to launchpad's config file launchpad.ini.
+
+08-steps
+
+Boot ubuntu, boot dxg, landscape dxg, connect dxg with usb, check pc's dmesg to see an extra fb is attached, logout ubuntu and login again, fun with dxg display!
+
 ***************
 
 1-displaylink
