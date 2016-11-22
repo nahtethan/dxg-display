@@ -1,7 +1,12 @@
 # dxg-display
 
+- Snapshot
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3665.JPG)
 - Ubuntu 12.04 is the only verified platform now.
 - My ubuntu is using Linux version 4.0.
+
+***************
 
 0-binary
 
