@@ -49,3 +49,7 @@
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/09.jpg)
 26. 下载[Windows程序Console.exe](http://pan.baidu.com/s/1c2n6Ryo)到PC桌面。
 27. 双击桌面上的Console.exe，完毕，DXG将镜像显示器上的内容。（注意：上面下载的mylcd是试用版，DXG只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
+28. 效果：  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3665.JPG)
+
