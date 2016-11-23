@@ -1,5 +1,5 @@
 # 非VNC改造DXG为显示器 #
-如果是文石或者DPT-S1，请点击[改造文石96或MAX为显示器的软件]()
+如果是文石或者DPT-S1，请点击[改造文石96或MAX为显示器的软件](https://github.com/nahtethan/dxg-display/blob/master/BOOX.md)
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
 2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。
