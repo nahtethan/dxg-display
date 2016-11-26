@@ -7,7 +7,7 @@
 4. 如下图所示，在命令行里执行adb devices，确定adb能连接文石96或MAX。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)
 5. 文石96安装[TwoDG1.apk](https://github.com/nahtethan/dxg-display/blob/master/00-binary/TwoDG1.apk)，MAX安装[TwoDG1Max.apk](https://github.com/nahtethan/dxg-display/blob/master/00-binary/TwoDG1Max.apk)。
-6. 文石96下载[Windows程序Android_96.exe](http://pan.baidu.com/s/1gf8z7sJ)，MAX下载[Android_Max.exe](http://pan.baidu.com/s/1eRPMpfO)
+6. 文石96下载[Windows程序Android_96.exe](http://pan.baidu.com/s/1jHTIbl0)，MAX下载[Android_Max.exe](http://pan.baidu.com/s/1dF40aMt)
 7. 下载的Android_96.exe或者Android_Max.exe，放在第二步adb所在的目录。
 8. 双击Android_96.exe或者Android_Max.exe
 9. 文石96或MAX将镜像显示器上的内容。（注意：上面下载的apk是试用版，电纸书只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
