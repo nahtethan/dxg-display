@@ -10,7 +10,7 @@
 7. DXG连接PC，然后在PC上进入DXG的usbnet文件夹：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/USBNET1.png)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/USBNET2.png)
-8. 把usbnet里面的DISABLED_auto文件重命名为auto，弹出DXG，拔USB线，重启DXG
+8. 把usbnet里面的DISABLED_auto文件重命名为auto，弹出DXG，拔USB线，重启DXG：Home按钮 - Menu按钮 - Settings - Menu按钮 - Restart
 9. 重启DXG后，USB线连接PC，PC的设备管理器将发现新设备，如下：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS01.jpg)
 10. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器
