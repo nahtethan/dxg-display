@@ -6,10 +6,10 @@
 3. [Windows打开命令行](http://jingyan.baidu.com/article/a501d80ce26fecec630f5ee0.html)
 4. 如下图所示，在命令行里执行adb devices，确定adb能连接文石96或MAX。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)
-5. 文石96安装[TwoDG1.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG1.apk)，MAX安装[TwoDG1Max.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG1Max.apk)。
-6. 文石96下载[Windows程序Android_96.exe](http://pan.baidu.com/s/1hs7KFBm)，MAX下载[Android_Max.exe](http://pan.baidu.com/s/1dFdz5k9)
-7. 下载的Android_96.exe或者Android_Max.exe，放在第二步adb所在的目录。
-8. 双击Android_96.exe或者Android_Max.exe
+5. 文石96安装[TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk)，MAX安装[TwoDG2_Max.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2_Max.apk)。
+6. 文石96下载[Windows程序And_96_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=Mjg5MTAzM3xjZDViNTUwNnwxNDg3MTM1MTk5fGQ4OWRvMGdwaVg0bWdsbWorRDlDM0I2WkN0QklaZVdvK1kyTjllV1pmcE4yNU9F)，MAX下载[And_Max_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=Mjg5MTAzNHw4NjIxZGM4M3wxNDg3MTM1MTk5fGQ4OWRvMGdwaVg0bWdsbWorRDlDM0I2WkN0QklaZVdvK1kyTjllV1pmcE4yNU9F)
+7. 下载的And_96_G.exe或者And_Max_G.exe，放在第二步adb所在的目录。
+8. 双击And_96_G.exe或者And_Max_G.exe
 9. 文石96或MAX将镜像显示器上的内容。（注意：上面下载的apk是试用版，电纸书只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
-10. 效果：  
+10. 效果（Max支持分辨率：1600*1200，1376*1032，1200*900，1024*768，800*600）：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/max.jpg)
