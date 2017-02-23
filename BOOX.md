@@ -11,5 +11,5 @@
 7. 下载的And_96_G.exe或者And_Max_G.exe，放在第二步adb所在的目录。
 8. 双击And_96_G.exe或者And_Max_G.exe
 9. 文石96或MAX将镜像显示器上的内容。（注意：上面下载的apk是试用版，电纸书只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
-10. 效果（Max支持分辨率：1600*1200，1376*1032，1200*900，1024*768，800*600）：  
+10. 效果（Max支持分辨率：1600x1200，1376x1032，1200x900，1024x768，800x600）：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/max.jpg)
