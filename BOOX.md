@@ -7,7 +7,7 @@
 4. 如下图所示，在命令行里执行adb devices，确定adb能连接文石96或MAX。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)
 5. 文石96安装[TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk)，MAX安装[TwoDG2_Max.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2_Max.apk)。
-6. 文石96下载[Windows程序And_96_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=Mjg5NzYzOHxlNmYzNjM0M3wxNDg3NjAwNzY5fDViMjF3T3c4TGRoeE5KdUdiQTg4MG9RWThQWXlJQ3NidW5LeWF3aEZseXpYTXZv)，MAX下载[And_Max_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=Mjg5NzYzOXwwNWM2NWQ1M3wxNDg3NjAwNzY5fDViMjF3T3c4TGRoeE5KdUdiQTg4MG9RWThQWXlJQ3NidW5LeWF3aEZseXpYTXZv)
+6. 文石96下载[Windows程序And_96_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=MjkwNDg0MHw4M2RlNzc1MHwxNDg4MDczNDM4fDMxZjBTclo5SHpkeFR0Z2pyWnpUbHdUdi85SExMZEhCZUlyZlZyT2E5eG9HdXZj)，MAX下载[And_Max_G.exe](https://www.hi-pda.com/forum/attachment.php?aid=MjkwNDg0MXxkZDU3ZTc4NnwxNDg4MDczNDM4fDMxZjBTclo5SHpkeFR0Z2pyWnpUbHdUdi85SExMZEhCZUlyZlZyT2E5eG9HdXZj)
 7. 下载的And_96_G.exe或者And_Max_G.exe，放在第二步adb所在的目录。
 8. 双击And_96_G.exe或者And_Max_G.exe
 9. 文石96或MAX将镜像显示器上的内容。（注意：上面下载的apk是试用版，电纸书只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
