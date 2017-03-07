@@ -11,7 +11,7 @@
 6. [Windows打开命令行](http://jingyan.baidu.com/article/a501d80ce26fecec630f5ee0.html)。
 7. 如下图所示，在命令行里执行adb devices，确定adb能连接电纸书。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)
-8. 双击第4步下载的mirror.exe。  
+8. 双击第5步下载的mirror.exe。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/mirror.jpg)
 9. 电纸书将镜像显示器上的内容。（注意：上面下载的apk是试用版，电纸书只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
 10. 效果（Max支持分辨率：1600x1200，1376x1032，1200x900，1024x768，800x600）：  
