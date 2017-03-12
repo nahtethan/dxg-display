@@ -2,18 +2,19 @@
 ## Installation ##
 1. Install [TwoDG2_Max.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2_Max.apk) on Onyx BOOX Max.  
 Note：  
-The download link above is demo version. Demo version only duplicates half of the PC screen on e-reader, you may purchase the e-reader hardware pre-installed with the authorized version at [Amazon](https://www.amazon.com/gp/offer-listing/B01EVACVHY/ref=dp_olp_new_mbc?ie=UTF8&condition=new&amp;m=A2ECSV2MNW0ZKB) or [Taobao](https://item.taobao.com/item.htm?id=520024244524).
-2. Download [mirror.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mirror.zip) to PC and unzip to C:\mirror\  
+Above download link is a demo version that duplicates only half of the PC screen on e-reader. Full-screen version bundled on an authorized e-reader hardware can be purchased at [Amazon](https://www.amazon.com/gp/offer-listing/B01EVACVHY/ref=dp_olp_new_mbc?ie=UTF8&condition=new&amp;m=A2ECSV2MNW0ZKB) or [Taobao](https://item.taobao.com/item.htm?id=520024244524).
+2. Download [mirror.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mirror.zip) to PC and unzip it to C:\mirror\  
 
 ## Connect and Use ##
-1. Checked the option on e-reader: Settings/Extension/Application Setting/USB debugging
-2. Connect e-reader to PC through a USB cable. Click “Cancel” when “Using as USB storage” message prompts up.
-3. Run “C:\mirror\mirror.exe” on PC, e-reader would start to duplicate the content on PC monitor.  
+1. Check on e-reader setting option: Settings/Extension/Application Setting/USB debugging
+2. Connect e-reader to PC through a USB cable. Click “Cancel” when “Connect device to a computer for USB storage” message prompts up on e-reader.
+3. Run “C:\mirror\mirror.exe” on PC, e-reader shall start to duplicate the content on PC monitor screen.
+4. Stop by either closing the mirror.exe program on PC or quitting the TwoDG2_Max app on e-reader.  
 Note:  
-You may also specify screen resolution of the e-reader using command line such as “C:\mirror\mirror.exe -w 1600 -h 1200”  
+You may specify e-reader screen resolution by command line parameters such as “C:\mirror\mirror.exe -w 1600 -h 1200”  
 Onyx BOOX Max supports screen resolutions of 1600x1200, 1376x1032, 1200x900, 1024x768 and 800x600.  
-You may also need to adjust the screen resolution of PC monitor for the best display effect.  
+You may also adjust PC monitor's screen resolution for the best display result.  
 
 ## Debug ##
-Open the Command Prompt in Windows, and run “C:\mirror\adb devices”. It would list all the devices attached to the PC.  
-If no device is attached, please make sure the option ‘Settings/Extension/Application Setting/USB debugging’ is checked on e-reader and the USB connection is secure.
+Open the Command Prompt in Windows, and run “C:\mirror\adb devices”. It shall show a list of attached devices.  
+If there is no device attached, please make sure e-reader 'Settings/Extension/Application Setting/USB debugging’is checked and the USB connection is secure.
