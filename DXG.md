@@ -38,7 +38,7 @@
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/04.png)
 20. 然后SSHSecureShellClient就能连接DXG了：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/05.png)
-21. 下载[DXG需要的文件mylcd](https://raw.githubusercontent.com/nahtethan/dxg-display/master/99-pictures/mylcd)到PC桌面。
+21. 下载[DXG需要的文件mylcd](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mylcd)到PC桌面。
 22. 如下图所示，点击SSH Secure Shell Client工具栏上的黄色文件夹，打开文件传输：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/06.jpg)
 23. 如下图所示，把tmp/root改为/mnt/us - 回车 - 把上面21步下载的mylcd从下图的左边拖到右边，以完成上传文件到DXG - 关闭下图程序  
@@ -47,7 +47,7 @@
 24. 如果DXG是锁屏状态，解锁，然后将DXG置于系统横屏状态。
 25. 如下图所示，在SSH Secure Shell Client里面执行chmod +x /mnt/us/mylcd和/mnt/us/mylcd
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/09.jpg)
-26. 下载[Windows程序Console.exe](http://pan.baidu.com/s/1sljfOOd)到PC桌面。
+26. 下载[Windows程序Console.exe](https://www.hi-pda.com/forum/attachment.php?aid=MjkyOTcyMnxjNmI2Y2I1N3wxNDg5NzIwMTMyfDdkNDIwTk80SG01eVROb3ltK2JoOElkMFU0VzBDQmJtL0ZQaWdFeFZ4dkZRYUs0)到PC桌面。
 27. 双击桌面上的Console.exe，完毕，DXG将镜像显示器上的内容。（注意：上面下载的mylcd是试用版，DXG只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
 28. 效果：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
