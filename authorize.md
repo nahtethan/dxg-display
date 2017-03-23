@@ -13,5 +13,5 @@ Application QuickFullScreen can remove below android top bar.
 1. CPU Serial Number is for authorization usage.
 2. Open the Command Prompt in Windows, and run "C:\mirror\adb devices". It shall show a list of attached devices.  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)
-3. Run "C:\mirror\adb cat /proc/cpuinfo". It shall show the e-reader's CPU Serial Number:  
+3. Run "C:\mirror\adb shell cat /proc/cpuinfo". It shall show the e-reader's CPU Serial Number:  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/cpu.jpg)
