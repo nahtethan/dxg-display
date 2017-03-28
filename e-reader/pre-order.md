@@ -20,6 +20,6 @@ https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX96en.md)
 5. Scroll down to the end of the list, check TwoDG2, and click Ok:  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/quickfull.jpg)
 ## Order Instruction ##
-1. Email seller a photo of running demo on your e-reader and a Screen shot of e-reader’s CPU Serial Number before you place your order.
+1. Email seller a photo of running demo on your e-reader and a screen shot of e-reader's CPU serial number before you place your order at [Amazon](https://www.amazon.com/dp/B06XVH7YC7).
 2. Authorized APK file will be emailed to you after your order is processed.
-3. Remote support through Teamviewer are available if any issues occur.
+3. Remote support through Teamviewer is available if any issue occurs.
