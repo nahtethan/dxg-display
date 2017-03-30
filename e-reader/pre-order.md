@@ -3,7 +3,7 @@
 Test out the Demo version and only proceed if you are satisfied of what you see.  
 Onyx Max users follow instructions at [BOOXen.md](
 https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)  
-Onyx N96 users follow instructions at [BOOX96en.md](
+Onyx N96 & M96 users follow instructions at [BOOX96en.md](
 https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX96en.md)
 ## Record E-Reader’s CPU Serial Number for software authorization ##
 1. Open the Command Prompt in Windows, and run "C:\mirror\adb devices". It shall show a list of attached devices.  

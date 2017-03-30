@@ -1,6 +1,6 @@
-# Using Onyx BOOX N96 E-reader As Windows PC Monitor #
+# Using Onyx BOOX N96 & M96 E-reader As Windows PC Monitor #
 ## Installation ##
-1. Install [TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk) on Onyx BOOX N96.  
+1. Install [TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk) on Onyx BOOX N96 or M96.  
 Note：  
 If you have authorized APK pre-installed, please skip this step.  
 Above download link is a demo version that duplicates only half of the PC screen on e-reader. Full-screen version can be purchased at [Amazon](https://www.amazon.com/dp/B06XVH7YC7) or [Taobao](https://item.taobao.com/item.htm?id=520024244524).  
@@ -13,7 +13,7 @@ You may also purchase a pre-installed hardware bundle at [Amazon](https://www.am
 3. Run “C:\mirror\mirror.exe” on PC, e-reader shall start to duplicate the content on PC monitor screen.
 4. Stop by either closing the mirror.exe program on PC or quitting the TwoDG2 app on e-reader.  
 Note:  
-Onyx BOOX N96 supports screen resolutions of 1200x824.  
+Onyx BOOX N96 & M96 supports screen resolutions of 1200x824.  
 You may also adjust PC monitor's screen resolution for the best display result.  
 
 ## Debug ##
