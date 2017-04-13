@@ -19,4 +19,8 @@ You may also adjust PC monitor's screen resolution for the best display result.
 
 ## Debug ##
 Open the Command Prompt in Windows, and run "C:\mirror\adb devices". It shall show a list of attached devices.  
-If there is no device attached, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)  
+If there is no device attached, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.  
+If device still can't be detected, please install [Mobogenie](http://www.mobogenie.com/) or [Wandoujia](https://www.wandoujia.com/) to fix the problem.  
+Run "C:\mirror\adb shell cat  /proc/cpuinfo". It shall show the e-reader's CPU Serial Number:  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/cpu.jpg)  
