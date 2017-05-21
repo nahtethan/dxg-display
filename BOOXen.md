@@ -1,7 +1,7 @@
 # Using Onyx BOOX E-reader As Windows PC Monitor #
 ## Supported devices ##
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
-- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
+- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
 ## Installation ##
 1. Install [TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk) on Onyx BOOX E-reader.  

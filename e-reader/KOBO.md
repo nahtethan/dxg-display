@@ -1,7 +1,7 @@
 # 非VNC改造DXG为显示器 #
 ## Supported devices ##
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
-- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
+- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
