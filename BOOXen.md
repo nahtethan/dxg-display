@@ -1,5 +1,5 @@
 # Using Onyx BOOX E-reader As Windows PC Monitor #
-## Supported devices ##
+## All supported devices ##
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
 - [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)

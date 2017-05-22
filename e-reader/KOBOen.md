@@ -1,8 +1,11 @@
-# 非VNC改造DXG为显示器 #
-## Supported devices ##
+# Kobo aura one work as monitor #
+## All supported devices ##
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
 - [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
+## Prepare kobo aura one ##
+
+
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
 2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。

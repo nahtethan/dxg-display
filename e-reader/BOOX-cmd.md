@@ -1,5 +1,8 @@
 # 改造电纸书为显示器的软件 #
-支持文石96、MAX等安卓系统电纸书，KINDLE DXG或者DX请点击[非VNC改造DXG为显示器](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)。
+## All supported devices ##
+- [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
+- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
+- [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
 1. 电纸书上打开USB调试：设置 - 扩展 - 应用设置 - USB调试
 2. 电纸书USB连接PC，弹出的USB存储的框选“取消”：  
