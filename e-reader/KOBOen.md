@@ -1,11 +1,19 @@
-# Kobo aura one work as monitor #
+# Kobo Aura One (KA1) work as monitor #
 ## All supported devices ##
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
 - [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
-## Prepare kobo aura one ##
-
-
+## Update Kobo Aura One ##
+1. [Finding your Kobo eReader's version number](https://www.kobo.com/help/en-US/article/3092/updating-your-kobo-ereader)
+2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
+> This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
+## KSM Step 1 ##
+1. Download the archive KBStartMenu_Monitor.zip to your pc and extract the content
+2. Connect the kobo to the PC
+3. Copy the folder kbmenupngs to the root of the device (e.g. D:\)
+4. Eject safely and disconnect
+5. Check that all images (exit_nickel.png, switchtokoreader.png, etc.) are listed in the library. Only then proceed to step two.
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO-02.jpg)
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
 2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。
