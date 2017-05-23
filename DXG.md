@@ -20,7 +20,7 @@
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS03.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS04.jpg)
-11. 左边选Microsoft，右边选Remote NDIS based Internet Sharing Device，点击下一步：
+11. 左边选Microsoft或者Microsoft Corporation，右边选Remote NDIS based Internet Sharing Device，点击下一步：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS05.jpg)
 12. 如果出现下面的截图，表面驱动安装成功：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS06.jpg)
