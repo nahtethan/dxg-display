@@ -8,7 +8,7 @@
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
 > This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
 ## KSM Step 1 ##
-1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content
+1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content, **[Another KBStartMenu_Monitor.zip link](http://pan.baidu.com/s/1o80n8Gq)**
 2. Connect the kobo device to the PC
 3. Copy the folder kbmenupngs to the root of the device (e.g. D:\)
 4. Eject safely and disconnect
@@ -20,18 +20,8 @@
 3. Eject safely and disconnect
 4. Wait until the update is finished (do not interrupt it, even if it takes some time)
 > KSM is by default configured to run only after every second reboot, and nickel (kobo's original system software) automatically runs after every other second reboot. You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
-## Windows 7、8的安装步骤 ##
-1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
-2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。
-3. 查看DXG原生系统的软件版本：Home按钮 - Menu按钮 - Settings - Device Info
-4. 如果软件版本不是2.5.8，点击[2.5.8下载地址](https://s3.amazonaws.com/G7G_FirmwareUpdates_WebDownloads/Update_kindle_2.5.8_B009.bin)，升级安装方法：下载的文件放在DXG在PC上U盘的根目录 - Home按钮 - Menu按钮 - Settings - Menu按钮 - Update Your Kindle
-5. 越狱DXG，[越狱文件下载地址](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/Update_jailbreak_0.12.N_dxg_install.bin)，安装方法同上。
-6. DXG安装[MobileRead](http://www.mobileread.com/forums/showthread.php?t=225030)开发的usbnet，[文件下载地址](http://pan.baidu.com/s/1gdxriHt)，安装方法同上。
-7. DXG连接PC，然后在PC上进入DXG的usbnet文件夹：  
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/USBNET1.png)
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/USBNET2.png)
-8. 把usbnet里面的DISABLED_auto文件重命名为auto，弹出DXG，拔USB线，重启DXG：Home按钮 - Menu按钮 - Settings - Menu按钮 - Restart
-9. 重启DXG后，USB线连接PC，PC的设备管理器将发现新设备，如下：
+## 连接KA1和Windows ##
+1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS01.jpg)
 10. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)
