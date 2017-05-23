@@ -8,7 +8,7 @@
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
 > This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
 ## KSM Step 1 ##
-1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content. **[Another KBStartMenu_Monitor.zip Link](http://pan.baidu.com/s/1o80n8Gq)**
+1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content, **[(Another KBStartMenu_Monitor.zip Link)](http://pan.baidu.com/s/1o80n8Gq)**.
 2. Connect the kobo device to the PC
 3. Copy the folder kbmenupngs to the root of the device (e.g. D:\)
 4. Eject safely and disconnect
@@ -27,7 +27,7 @@
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS03.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS04.jpg)
-11. 左边选Microsoft，右边选Remote NDIS based Internet Sharing Device，点击下一步：
+11. 左边选Microsoft或者Microsoft Corporation，右边选Remote NDIS based Internet Sharing Device，点击下一步：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS05.jpg)
 12. 如果出现下面的截图，表面驱动安装成功：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS06.jpg)
@@ -47,9 +47,9 @@
 19. Password什么都别敲，直接点击OK：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/04.png)
 20. 然后SSHSecureShellClient就能连接KA1了。
-25. 如下图所示，在SSH Secure Shell Client里面执行/mnt/onboard/mylcd
+25. 如下图所示，在SSH Secure Shell Client里面执行/adds/kbmenu/mylcd
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_04.jpg)
-26. 下载[Windows程序KA1.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip)并解压缩到PC桌面。
+26. 下载[Windows程序KA1.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KA1.zip)并解压缩到PC桌面。
 27. 双击桌面上的KA1.exe，完毕，KA1将镜像显示器上的内容。（注意：上面下载的mylcd是试用版，KA1只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
 28. 效果：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
