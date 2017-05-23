@@ -8,12 +8,18 @@
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
 > This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
 ## KSM Step 1 ##
-1. Download the archive KBStartMenu_Monitor.zip to your pc and extract the content
-2. Connect the kobo to the PC
+1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content
+2. Connect the kobo device to the PC
 3. Copy the folder kbmenupngs to the root of the device (e.g. D:\)
 4. Eject safely and disconnect
 5. Check that all images (exit_nickel.png, switchtokoreader.png, etc.) are listed in the library. Only then proceed to step two.
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO-02.jpg)
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_02.jpg)
+## KSM Step 2 ##
+1. Connect the kobo device to the PC
+2. Copy KoboRoot.tgz to the folder .kobo of the device
+3. Eject safely and disconnect
+4. Wait until the update is finished (do not interrupt it, even if it takes some time)
+> KSM is by default configured to run only after every second reboot, and nickel (kobo's original system software) automatically runs after every other second reboot. You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
 2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。
