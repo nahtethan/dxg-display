@@ -3,33 +3,36 @@
 - [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
 - [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
 - [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
-## Update Kobo Aura One ##
-1. [Finding your Kobo eReader's version number](https://www.kobo.com/help/en-US/article/3092/updating-your-kobo-ereader)
-2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
-> This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
+## 更新Kobo Aura One的软件 ##
+1. 确认KA1至少有30%的电量
+2. [查看KA1的软件版本](https://www.kobo.com/help/en-US/article/3092/updating-your-kobo-ereader)
+3. 将KA1的软件更新到最新（4.2.8432或更高）
+> 显示器同屏软件使用了[Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), 下面是安装KSM的步骤。
 ## KSM Step 1 ##
-1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content, **[(Another KBStartMenu_Monitor.zip Link)](http://pan.baidu.com/s/1o80n8Gq)**.
-2. Connect the kobo device to the PC
-3. Copy the folder kbmenupngs to the root of the device (e.g. K:\)
-4. Eject safely and disconnect
-5. Check that all images (exit_nickel.png, switchtokoreader.png, etc.) are listed in the library. Only then proceed to step two.
+1. PC下载文件[KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip)并解压缩，**[(备用百度网盘链接)](http://pan.baidu.com/s/1o80n8Gq)**
+2. 连接KA1和PC
+3. 把目录kbmenupngs拷贝到KA1的根目录，比如D:\  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_01.jpg)
+4. 弹出KOBOeReader并断开USB
+5. 确认拷贝的图片都显示在书籍列表里，然后继续下面的步骤：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_02.jpg)
 ## KSM Step 2 ##
-1. Connect the kobo device to the PC
-2. Copy KoboRoot.tgz to the folder .kobo of the device
-3. Eject safely and disconnect
-4. Wait until the update is finished (do not interrupt it, even if it takes some time)
-> KSM is by default configured to run only after every second reboot, and nickel (kobo's original system software) automatically runs after every other second reboot. You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
+1. 连接KA1和PC
+2. 把文件KoboRoot.tgz拷贝到KA1的.kobo目录：  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_03.jpg)
+3. 弹出KOBOeReader并断开USB
+4. KA1将在几秒后开始更新，更新需要几分钟的时间，**注意不要打断更新过程**
+> 更新后KA1将进入Kobo Start Menu界面，点击“start nickel”会启动原来Kobo的阅读器软件（重启KA1也会启动原来的软件，再次重启KA1又会进入Kobo Start Menu界面）， You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
 ## 连接KA1和Windows ##
-1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：
+1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS01.jpg)
-2. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器
+2. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS03.jpg)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS04.jpg)
-3. 左边选Microsoft或者Microsoft Corporation，右边选Remote NDIS based Internet Sharing Device，点击下一步：
+3. 左边选Microsoft或者Microsoft Corporation，右边选Remote NDIS based Internet Sharing Device，点击下一步：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS05.jpg)
-4. 如果出现下面的截图，表面驱动安装成功：
+4. 如果出现下面的截图，表面驱动安装成功：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS06.jpg)
 5. 在PC“网络连接”里面设置RNDIS网络适配器的IP：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS08.jpg)
