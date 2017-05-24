@@ -19,6 +19,7 @@
 2. Copy KoboRoot.tgz to the folder .kobo of the device
 3. Eject safely and disconnect
 4. Wait until the update is finished (do not interrupt it, even if it takes some time)
+5. After update, KA1 will start KSM, then monitor software will work.
 > KSM is by default configured to run only after every second reboot, and nickel (kobo's original system software) automatically runs after every other second reboot. You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
 ## 连接KA1和Windows ##
 1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：
