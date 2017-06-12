@@ -22,11 +22,7 @@ Onyx BOOX Max supports screen resolutions of 1600x1200, 1376x1032, 1200x900, 102
 You may also adjust PC monitor's screen resolution for the best display result.  
 
 ## Debug ##
-Open the Command Prompt in Windows, and run "C:\mirror\adb devices". It shall show a list of attached devices.  
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/adb.jpg)  
-If there is no device attached, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.  
+If device can't be detected, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.  
 If device still can't be detected, please install [Mobogenie](http://www.mobogenie.com/) or [Wandoujia](https://www.wandoujia.com/) to fix the problem.  
-Please remember uninstall Mobogenie or Wandoujia after device is connected to Mobogenie or Wandoujia. Their latest version is not compatible with adb.  
+Please remember uninstall Mobogenie or Wandoujia after device is connected to Mobogenie or Wandoujia. Their latest version is not compatible with this software.  
 If PC's malware protection software such as Symantec, Mcafee complains, please add mirror application to their white list. You can follow the steps in [Creating an allow application rule in Symantec](https://support.symantec.com/en_US/article.TECH104526.html).  
-Run "C:\mirror\adb shell cat  /proc/cpuinfo". It shall show the e-reader's CPU Serial Number:  
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/cpu.jpg)  
