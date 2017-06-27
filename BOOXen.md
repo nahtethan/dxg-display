@@ -23,6 +23,5 @@ You may also adjust PC monitor's screen resolution for the best display result.
 
 ## Debug ##
 If device can't be detected, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.  
-If device still can't be detected, please install [Mobogenie](http://www.mobogenie.com/) or [Wandoujia](https://www.wandoujia.com/) to fix the problem.  
-Please remember uninstall Mobogenie or Wandoujia after device is connected to Mobogenie or Wandoujia. Their latest version is not compatible with this software.  
+If device still can't be detected, please download [Google USB driver](https://dl-ssl.google.com/android/repository/latest_usb_driver_windows.zip), then install it according to the steps on [Install Google USB Drivers](https://developer.android.com/studio/run/oem-usb.html#InstallingDriver).  
 If PC's malware protection software such as Symantec, Mcafee complains, please add mirror application to their white list. You can follow the steps in [Creating an allow application rule in Symantec](https://support.symantec.com/en_US/article.TECH104526.html).  

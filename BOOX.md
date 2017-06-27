@@ -7,8 +7,8 @@
 1. 电纸书上打开USB调试：设置 - 扩展 - 应用设置 - USB调试
 2. 电纸书USB连接PC，弹出的USB存储的框选“取消”：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/storage.jpg)
-3. Windows安装[豌豆荚](http://mir.wandoujia.com/getwdj/homepage_)，确认豌豆荚可以通过USB连接电纸书。
-4. 电纸书上安装安卓软件[TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk)。
+3. Windows安装[驱动人生的标准版](http://qd.160.com/)，打开驱动人生并安装电纸书的USB驱动。
+4. 检查电纸书上有没有安装TwoDG2，没有的话安装安卓软件[TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk)。
 5. PC下载压缩文件[mirror.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mirror.zip)。如下图所示，解压缩到c盘。  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/mirror.jpg)
 6. 双击下载的eMonitor.exe，如下图所示：  
