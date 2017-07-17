@@ -20,9 +20,10 @@
 3. Eject safely and disconnect
 4. Wait until the update is finished (do not interrupt it, even if it takes some time)
 5. After update, KA1 will start KSM, then monitor software will work.
+6. Reboot KA1
 > KSM is by default configured to run only after every second reboot, and nickel (kobo's original system software) automatically runs after every other second reboot. You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
 ## 连接KA1和Windows ##
-1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：
+1. After KA1 start KSM，USB线连接PC，PC的设备管理器将发现新设备，如下：
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS01.jpg)
 2. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)

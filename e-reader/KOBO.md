@@ -23,9 +23,10 @@
 3. 弹出KOBOeReader并断开USB
 4. KA1将在几秒后开始更新，更新需要几分钟的时间，**注意不要打断更新过程**
 5. 更新后KA1将进入Kobo Start Menu界面，显示器同屏软件需要运行在KSM下
+6. 重启KA1
 > 在Kobo Start Menu里点击“start nickel”会启动原来Kobo的阅读器软件（重启KA1也会启动原来的软件，再次重启KA1又会进入Kobo Start Menu界面），You can change this behaviour: "tools" > "activate" > "set runmenu settings.msh" > "always"
 ## 连接KA1和Windows ##
-1. KA1启动后，USB线连接PC，PC的设备管理器将发现新设备，如下：  
+1. KA1启动，进入Kobo Start Menu界面后，USB线连接PC，PC的设备管理器将发现新设备，如下：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS01.jpg)
 2. 按下面截图给RNDIS设备安装驱动：浏览 - 从计算机的设备驱动 - 网络适配器  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/RNDIS02.jpg)
