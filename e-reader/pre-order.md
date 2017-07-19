@@ -11,7 +11,7 @@ Follow instructions at [BOOXen.md](https://github.com/nahtethan/dxg-display/blob
 5. Scroll down to the end of the list, check TwoDG2, and click Ok:  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/quickfull.jpg)
 ## Order Instruction ##
-1. Email your e-reader CPU serial number, a photo of e-reader with running demo version and order number to [ethan.yang@hotmail.com](mailto:ethan.yang@hotmail.com) when you place the order at [Amazon](https://www.amazon.com/dp/B06XVH7YC7).  
+1. Email your e-reader CPU serial number, a photo of e-reader with running demo version and order number to [ethan.yang@hotmail.com](mailto:ethan.yang@hotmail.com) when you place the order.  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/cpu-email.jpg)  
 2. Authorized APK file will be emailed to you after your order is processed.
 3. If any issue occurs, technical support through teamviewer is available, please contact [ethan.yang@hotmail.com](mailto:ethan.yang@hotmail.com) for further instruction.
