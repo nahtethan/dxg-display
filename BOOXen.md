@@ -10,18 +10,20 @@ If you have authorized APK pre-installed, please skip this step.
 Above download link is a demo version that duplicates only half of the PC screen on e-reader. Full-screen version can be purchased at [Taobao](https://item.taobao.com/item.htm?id=520024244524).  
 You may also purchase a pre-installed hardware bundle at [Taobao](https://item.taobao.com/item.htm?id=520024244524).
 2. Download [mirror.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mirror.zip) to PC and unzip it to C:\mirror\  
-3. Check on e-reader setting option: Settings/Extension/Application Setting/USB debugging
 
 ## Connect and Use ##
-1. Connect e-reader to PC through a USB cable. Click "Cancel" when "Connect device to a computer for USB storage" message prompts up on e-reader.
-2. Run "C:\mirror\eMonitor.exe" on PC, click "Start", e-reader shall start to duplicate the content on PC monitor screen.  
-![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/eMonitor.jpg)
+1. Turn on e-reader's wifi and connect to a wireless network.
+2. Open the TwoDG2 that is installed previously, e-reader's ip will be displayed:  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/wifi.jpg)
+3. Run "C:\mirror\eMonitor.exe" on PC, type in e-reader's ip address, click "Start", e-reader shall start to duplicate the content on PC monitor screen.  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/eMonitor-wifi.jpg)
 3. Stop by either closing the eMonitor.exe program on PC or quitting the TwoDG2 app on e-reader.  
 Note:  
-Onyx BOOX Max supports screen resolutions of 1600x1200, 1376x1032, 1200x900, 1024x768 and 800x600, but N96 & M96 only supports 1200x824.  
+Onyx BOOX Max Carta supports screen resolutions of 2200x1640，1648x1228，1376x1032，1100x820，824x614.  
+![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/eMonitor-1376.jpg)  
+Onyx BOOX Max supports 1600x1200, 1376x1032, 1200x900, 1024x768 and 800x600.  
+N96 & M96 supports 1200x824, 1050x721, 900x618.  
 You may also adjust PC monitor's screen resolution for the best display result.  
 
 ## Debug ##
-If device can't be detected, please make sure e-reader "Settings/Extension/Application Setting/USB debugging" is checked and the USB connection is secure.  
-If device still can't be detected, please download [Google USB driver](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/latest_usb_driver_windows.zip), then install it according to the steps on [Install Google USB Drivers](https://developer.android.com/studio/run/oem-usb.html#InstallingDriver).  
-If PC's malware protection software such as Symantec, Mcafee complains, please add mirror application to their white list. You can follow the steps in [Creating an allow application rule in Symantec](https://support.symantec.com/en_US/article.TECH104526.html).  
+If device can't be detected, [try connect e-reader with usb](https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-usb.md).
