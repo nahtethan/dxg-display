@@ -4,7 +4,7 @@ Follow instructions at [BOOXen.md](https://github.com/nahtethan/dxg-display/blob
 ## Install and setup Application QuickFullScreen on E-Reader ##
 1. Application QuickFullScreen is required for full-screen version to remove below android top bar:  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/topbar.jpg)  
-2. Install [net.quickfullscreenmanager_2.apk](https://www.hi-pda.com/forum/attachment.php?aid=MjkzNjIzOHw4ZWU2MDZjOHwxNDkwMTYyMzMxfDMxYTdQZWFycDNPSTN3QmRJOGlTRkVVYlQ0bDVKdWJEMHdBa0YzSFNHbVZYQytJ) on e-reader.   
+2. Install [net.quickfullscreenmanager_2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/net.quickfullscreenmanager_2.apk) on e-reader.   
 3. Open application quickfullscreenmanager on e-reader: Application/QuickFullScreen Manager Free  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/quick.jpg)
 4. Click "Select your full screen apps/windows"  
