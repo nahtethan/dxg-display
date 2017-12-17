@@ -50,7 +50,7 @@
 24. 如果DXG是锁屏状态，解锁，然后将DXG置于系统横屏状态。
 25. 如下图所示，在SSH Secure Shell Client里面执行chmod +x /mnt/us/mylcd和/mnt/us/mylcd
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/09.jpg)
-26. 下载[Windows程序Console.exe](https://www.hi-pda.com/forum/attachment.php?aid=Mjk4MTkxMHxlYTljYjNmN3wxNDkzMTg3NTgxfDIwYmIvdXJ4T29saDN0TkN2bm5tMTJ2ODJadVVvZ2NTYXF5OUxWVUcxQVFrN2Q4)到PC桌面。
+26. 下载[Windows程序Console.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/Console.zip)并解压缩到PC桌面。
 27. 双击桌面上的Console.exe，完毕，DXG将镜像显示器上的内容。（注意：上面下载的mylcd是试用版，DXG只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
 28. 效果：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
