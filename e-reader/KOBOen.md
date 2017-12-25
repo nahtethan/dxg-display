@@ -52,7 +52,7 @@
 13. 如下图所示，在SSH Secure Shell Client里面执行/adds/kbmenu/mylcd  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_04.jpg)
 14. 下载[Windows程序KA1.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KA1.zip)并解压缩到PC桌面。
-15. 双击桌面上的KA1.exe，完毕，KA1将镜像显示器上的内容。（注意：上面下载的mylcd是试用版，KA1只显示一半，[正式版点我](https://item.taobao.com/item.htm?id=520024244524)）
+15. 双击桌面上的KA1.exe，完毕，KA1将镜像显示器上的内容。（有KA1出售，请大家多多支持，[想买KA1的点我](https://item.taobao.com/item.htm?id=545422421184)）
 16. 效果：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3665.JPG)
