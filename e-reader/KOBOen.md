@@ -8,7 +8,7 @@
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
 > This monitor software is based on [Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), next step is installing KSM.
 ## KSM Step 1 ##
-1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content, **[(Another KBStartMenu_Monitor.zip Link)](http://pan.baidu.com/s/1o80n8Gq)**.
+1. Download the archive [KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip) to your pc and extract the content.
 2. Connect the kobo device to the PC
 3. Copy the folder kbmenupngs to the root of the device (e.g. K:\)
 4. Eject safely and disconnect

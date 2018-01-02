@@ -9,7 +9,7 @@
 3. 将KA1的软件更新到最新（4.2.8432或更高）
 > 显示器同屏软件使用了[Kobo Start Menu (KSM)](http://www.mobileread.mobi/forums/showthread.php?t=266821), 下面是安装KSM的步骤。
 ## KSM Step 1 ##
-1. PC下载文件[KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip)并解压缩，**[(备用百度网盘链接)](http://pan.baidu.com/s/1o80n8Gq)**
+1. PC下载文件[KBStartMenu_Monitor.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/KBStartMenu_Monitor.zip)并解压缩
 2. 连接KA1和PC
 3. 把目录kbmenupngs拷贝到KA1的根目录，比如D:\  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/KAO_01.jpg)
