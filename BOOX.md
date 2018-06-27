@@ -6,7 +6,7 @@
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
 1. 电纸书上打开USB调试：设置 - 扩展 - 应用设置 - USB调试
 2. 电纸书USB连接PC，弹出的USB存储的框选“取消”：  
-![] [storage_jpg]
+![][storage_jpg]
 3. Windows安装[驱动人生的标准版] [qd]，打开驱动人生并安装电纸书的USB驱动。
 4. 检查电纸书上有没有安装TwoDG2，没有的话安装安卓软件[TwoDG2.apk] [TwoDG2_apk]。
 5. PC下载压缩文件[mirror.zip] [mirror_zip]。如下图所示，解压缩到c盘。  
