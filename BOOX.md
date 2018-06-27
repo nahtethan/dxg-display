@@ -1,8 +1,8 @@
 # 改造电纸书为显示器的软件 #
 ## All supported devices ##
-- [Kindle dx or dxg] [DXG]
-- [Kobo aura one] [KOBOen]
-- [Boox or other Android E-readers] [BOOXen]
+- [Kindle dx or dxg]
+- [Kobo aura one]
+- [Boox or other Android E-readers]
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
 1. 电纸书上打开USB调试：设置 - 扩展 - 应用设置 - USB调试
 2. 电纸书USB连接PC，弹出的USB存储的框选“取消”：  
@@ -18,9 +18,10 @@
 9. 效果（Max支持分辨率：1600x1200，1376x1032，1200x900，1024x768，800x600）：  
 ![] [max_jpg]
 
-[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md ""
-[BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
-[KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
+[Kindle dx or dxg]: https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[Kobo aura one]: https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
+[Boox or other Android E-readers]: https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
+
 [BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
 
 [max_jpg]:		https://github.com/nahtethan/dxg-display/blob/master/99-pictures/max.jpg
