@@ -18,7 +18,7 @@
 9. 效果（Max支持分辨率：1600x1200，1376x1032，1200x900，1024x768，800x600）：  
 ![] [max_jpg]
 
-[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md ""
 [BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
 [KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
 [BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
