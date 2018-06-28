@@ -7,7 +7,7 @@
 1. 这个软件支持安卓手机，暂时不支持苹果手机。
 2. 手机和电纸书连接同一个无线网络。
 3. 检查电纸书上有没有安装TwoDG2，没有的话安装安卓软件[TwoDG2.apk][TwoDG2_apk]。
-4. 电纸书打开刚才安装的TwoDG2，e-reader's IP will be displayed:  
+4. 电纸书打开刚才安装的TwoDG2，屏幕方向（Screen orientation）选择“Portrait”，e-reader's IP will be displayed:  
 ![][wifi_jpg]
 5. 手机安装安卓软件[Floating.apk][Floating_apk]。
 6. 手机打开刚才安装的Floating，输入步骤4显示的电纸书无线网络地址(IP)。
