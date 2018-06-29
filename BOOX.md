@@ -1,6 +1,8 @@
 # 改造电纸书为显示器的软件 #
 ## All supported devices ##
-| [Windows 投射 Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| 中文 | English |
+| ---- | ------- |
+| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
 | [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
 | [安卓投射安卓][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
