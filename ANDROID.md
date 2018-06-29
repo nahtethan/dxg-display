@@ -1,8 +1,9 @@
-# 安卓手机投屏到电纸书的软件 #
-## All supported devices ##
-- [Kindle dx or dxg][DXG]
-- [Kobo aura one][KOBOen]
-- [Boox or other Android E-readers][BOOXen]
+## 安卓手机投屏到电纸书的软件 ##
+| 各种同屏组合 | All supported devices |
+| ------------ | --------------------- |
+| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
+| [安卓投射安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
 1. 这个软件支持安卓手机，暂时不支持苹果手机。
 2. 手机和电纸书连接同一个无线网络。
@@ -16,9 +17,12 @@
 ![][max_jpg]
 
 [DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[BOOX]:		https://github.com/nahtethan/dxg-display/blob/master/BOOX.md
 [BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
+[ANDROID]:	https://github.com/nahtethan/dxg-display/blob/master/ANDROID.md
 [KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
 [BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
+[BOOX-mac]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-mac.md
 
 [max_jpg]:		https://github.com/nahtethan/dxg-display/blob/master/99-pictures/max.jpg
 [wifi_jpg]:		https://github.com/nahtethan/dxg-display/blob/master/99-pictures/wifi.jpg

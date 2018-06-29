@@ -1,4 +1,4 @@
-# Eink reader work as monitor #
+## Eink reader work as monitor ##
 | 各种同屏组合 | All supported devices |
 | ------------ | --------------------- |
 | [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |

@@ -1,8 +1,9 @@
-# Kobo Aura One (KA1) work as monitor #
-## All supported devices ##
-- [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
-- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
-- [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
+## Kobo Aura One (KA1) work as monitor ##
+| 各种同屏组合 | All supported devices |
+| ------------ | --------------------- |
+| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
+| [安卓投射安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## Update Kobo Aura One ##
 1. [Finding your Kobo eReader's version number](https://www.kobo.com/help/en-US/article/3092/updating-your-kobo-ereader)
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
@@ -56,3 +57,11 @@
 16. 效果：  
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3665.JPG)
+
+[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[BOOX]:		https://github.com/nahtethan/dxg-display/blob/master/BOOX.md
+[BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
+[ANDROID]:	https://github.com/nahtethan/dxg-display/blob/master/ANDROID.md
+[KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
+[BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
+[BOOX-mac]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-mac.md

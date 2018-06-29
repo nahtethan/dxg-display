@@ -1,8 +1,9 @@
-# Using Onyx BOOX E-reader As Windows PC Monitor #
-## All supported devices ##
-- [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
-- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
-- [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
+## Using Onyx BOOX E-reader As Windows PC Monitor ##
+| 各种同屏组合 | All supported devices |
+| ------------ | --------------------- |
+| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
+| [安卓投射安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## Installation ##
 1. Install [TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk) on Onyx BOOX E-reader.  
 Note：  
@@ -27,3 +28,11 @@ You may also adjust PC monitor's screen resolution for the best display result.
 
 ## Debug ##
 If device can't be detected, [try connect e-reader with usb](https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-usb.md).
+
+[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[BOOX]:		https://github.com/nahtethan/dxg-display/blob/master/BOOX.md
+[BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
+[ANDROID]:	https://github.com/nahtethan/dxg-display/blob/master/ANDROID.md
+[KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
+[BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
+[BOOX-mac]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-mac.md

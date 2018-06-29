@@ -1,4 +1,4 @@
-# 改造电纸书为显示器的软件 #
+## 改造电纸书为显示器的软件 ##
 | 各种同屏组合 | All supported devices |
 | ------------ | --------------------- |
 | [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |

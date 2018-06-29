@@ -1,8 +1,9 @@
-# 非VNC改造DXG为显示器 #
-## All supported devices ##
-- [Kindle dx or dxg](https://github.com/nahtethan/dxg-display/blob/master/DXG.md)
-- [Kobo aura one](https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md)
-- [Boox or other Android E-readers](https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md)
+## 非VNC改造DXG为显示器 ##
+| 各种同屏组合 | All supported devices |
+| ------------ | --------------------- |
+| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
+| [安卓投射安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## Windows 7、8的安装步骤 ##
 1. Windows xp、10的安装步骤稍有不同，咨询请加QQ群：电子墨水显示软件 326606690
 2. 如果DXG安装了多看，在多看的设置里面选择DXG默认起的是原生系统，然后重启DXG。
@@ -56,3 +57,10 @@
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3664.JPG)
 ![](https://github.com/nahtethan/dxg-display/blob/master/99-pictures/IMG_3665.JPG)
 
+[DXG]:		https://github.com/nahtethan/dxg-display/blob/master/DXG.md
+[BOOX]:		https://github.com/nahtethan/dxg-display/blob/master/BOOX.md
+[BOOXen]:	https://github.com/nahtethan/dxg-display/blob/master/BOOXen.md
+[ANDROID]:	https://github.com/nahtethan/dxg-display/blob/master/ANDROID.md
+[KOBOen]: 	https://github.com/nahtethan/dxg-display/blob/master/e-reader/KOBOen.md
+[BOOX-cmd]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-cmd.md
+[BOOX-mac]:	https://github.com/nahtethan/dxg-display/blob/master/e-reader/BOOX-mac.md
