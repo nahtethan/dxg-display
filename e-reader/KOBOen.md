@@ -1,9 +1,9 @@
 ## Kobo Aura One (KA1) work as monitor ##
 | 各种同屏组合 | All supported devices |
 | ------------ | --------------------- |
-| [Windows 投射Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
-| [Windows 投射安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
-| [安卓投射安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
+| [Windows投屏Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows投屏安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
+| [安卓投屏安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## Update Kobo Aura One ##
 1. [Finding your Kobo eReader's version number](https://www.kobo.com/help/en-US/article/3092/updating-your-kobo-ereader)
 2. Update Kobo Aura One to the latest firmware 4.2.8432 (or higher)
