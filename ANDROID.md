@@ -1,6 +1,8 @@
 ## 安卓手机投屏到电纸书的软件 ##
 | 各种同屏组合 | All supported devices |
 | ------------ | --------------------- |
+| [Windows投屏Kindle dx/g][DXG] | [Mirror Windows to Kobo aura one][KOBOen] |
+| [Windows投屏安卓电纸书][BOOX] | [Mirror Windows to Android os E-readers with wifi][BOOXen] |
 | [安卓投屏安卓(Android to Android)][ANDROID] | [Mirror Mac to Android os E-readers][BOOX-mac] |
 ## 安装步骤，咨询请加电子墨水显示软件QQ群：326606690 ##
 1. 这个软件支持安卓手机，暂时不支持苹果手机。
