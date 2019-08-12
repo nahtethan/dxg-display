@@ -8,8 +8,7 @@
 1. Install [TwoDG2.apk](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/TwoDG2.apk) on Onyx BOOX E-reader.  
 Note：  
 If you have authorized APK pre-installed, please skip this step.  
-Above download link is a demo version that duplicates only half of the PC screen on e-reader. Full-screen version can be purchased at [Taobao](https://item.taobao.com/item.htm?id=520024244524).  
-You may also purchase a pre-installed hardware bundle at [Taobao](https://item.taobao.com/item.htm?id=520024244524).
+Above download link is a demo version that duplicates only half of the PC screen on e-reader. Email/paypal ethan.yang@hotmail.com to get Full-screen version.
 2. Download [mirror.zip](https://raw.githubusercontent.com/nahtethan/dxg-display/master/00-binary/mirror.zip) to PC and unzip it to C:\mirror\  
 
 ## Connect and Use ##
